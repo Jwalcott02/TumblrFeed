@@ -40,7 +40,6 @@ Describe any challenges encountered while building the app:
 - Adjusting constraints so the first cell doesn't get hidden under the notch.
 
 ## License
-## License
 
     Copyright 2025 Justice Walcott
 
