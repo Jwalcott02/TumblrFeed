@@ -21,7 +21,14 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-**[Add walkthrough video link here]**
+**<div>
+    <a href="https://www.loom.com/share/d52e5a3530934df8a1ab066ad5ec4bab">
+      <p>Videos | Library | Loom - 15 July 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d52e5a3530934df8a1ab066ad5ec4bab">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d52e5a3530934df8a1ab066ad5ec4bab-309c27140826e8f7-full-play.gif">
+    </a>
+  </div>**
 
 ## Notes
 
